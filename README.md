@@ -19,9 +19,11 @@
  
 ![Окно](https://github.com/gyroxon/glslCanvas/blob/main/glcanv-08-14-091825.jpg)
  
-Еще скриншот
+Еще скриншоты
 
 ![Окно2](https://github.com/gyroxon/glslCanvas/blob/main/glcanv-08-14-091955.jpg)
+![Окно3](https://github.com/gyroxon/glslCanvas/blob/main/glcanv-08-14-091936.jpg)
+![Окно4](https://github.com/gyroxon/glslCanvas/blob/main/glcanv-08-14-092024.jpg)
  
  С++ lang  + OpenGL + glfw3 + ImGui + OpenAL
  
