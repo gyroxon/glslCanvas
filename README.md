@@ -17,11 +17,11 @@
      
 Написан в 2023 году.
  
-![Окно](https://github.com/gyroxon/shapes/blob/main/glcanv-08-14-091825.jpg)
+![Окно](https://github.com/gyroxon/glslCanvas/blob/main/glcanv-08-14-091825.jpg)
  
 Еще скриншот
 
-![Окно2](https://github.com/gyroxon/shapes/blob/main/glcanv-08-14-091955.jpg)
+![Окно2](https://github.com/gyroxon/glslCanvas/blob/main/glcanv-08-14-091955.jpg)
  
  С++ lang  + OpenGL + glfw3 + ImGui + OpenAL
  
